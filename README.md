@@ -21,5 +21,3 @@ Full stack developer student. Right now i'm learning Back-end web developement. 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garrus3000&theme=blue-green)
 
 ![Most Used Languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=garrus3000&theme=blue-green)
-
-
