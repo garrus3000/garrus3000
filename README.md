@@ -2,7 +2,7 @@
 Full stack developer student. Right now i'm learning Back-end web developement. Working as an administrative assistant, studying IT for a career change!
 ***
    
-#### 📫 How to reach me:
+### 📫 How to reach me:
 * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garrus3000)
 * [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/eduardo-odriozola)
 
