@@ -1,7 +1,7 @@
 [![pages-build-deployment](https://github.com/garrus3000/garrus3000/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/garrus3000/garrus3000/actions/workflows/pages/pages-build-deployment)
 
 ## Buenas! 👋
-Full stack developer student. Right now i'm learning Back-end web developement. Working as an administrative assistant, studying IT for a career change!
+Front-end Developer. Right now i'm learning Back-end development. Working as an administrative assistant, studying IT for a career change!
 ***
  
 ### Knowledge:
