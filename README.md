@@ -9,9 +9,11 @@ Front-end Developer. Right now i'm learning Back-end development. Working as an 
  ***
  
 ### 📫 How to reach me:
-- https://github.com/garrus3000 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garrus3000)
-- https://www.linkedin.com/in/edu-developer [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/edu-developer)
-- eduardocorrientes@gmail.com ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garrus3000) > https://www.linkedin.com/in/edu-developer
+
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/edu-developer) > https://www.linkedin.com/in/edu-developer 
+
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) > eduardocorrientes@gmail.com
 
 #### ⚡ Fun fact: Aguante el mate! 🧉
 ***
