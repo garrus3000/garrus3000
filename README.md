@@ -1,7 +1,7 @@
 [![pages-build-deployment](https://github.com/garrus3000/garrus3000/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/garrus3000/garrus3000/actions/workflows/pages/pages-build-deployment)
 
 ## Buenas! 👋
-Front-end Developer. Right now i'm learning Back-end development. Working as an administrative assistant, studying IT for a career change!
+I am a Front-end Developer with experience in building interactive and scalable web applications using React. I am looking for a job opportunity that allows me to continue learning and growing professionally, while contributing my skills and experience to the team. I have basic knowledge in Express to collaborate on Back-end projects.
 ***
  
 ### Knowledge:
